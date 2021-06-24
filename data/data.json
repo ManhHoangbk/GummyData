@@ -1,0 +1,33 @@
+[
+    {
+        "id":0,
+        "levelScore":0,
+        "tags":[
+           1,
+           2
+        ],
+        "gameType":0,
+        "orderIndex":0,
+        "gameName":"Game tô chữ cái",
+        "parentId":0,
+        "createDate":0,
+        "gameDatas":[
+           {
+              "id":1,
+              "parentId":0,
+              "gameType":0,
+              "image":"alphabet.svg",
+              "items":[
+                 {
+                    "image":"alphabet.svg",
+                    "position":{
+                       "dx":100,
+                       "dy":2
+                    },
+                    "color":"#FFFFFF"
+                 }
+              ]
+           }
+        ]
+     }
+]
